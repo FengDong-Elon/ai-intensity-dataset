@@ -42,7 +42,7 @@ economics.
 **If you use this dataset, you must cite the following paper:**
 
 Dong, F., Doukas, J., and Zhang, R.  
-*:contentReference[oaicite:0]{index=0}*,  
+"Artificial Intelligence Engagement, Firm Value, and Risk Transformation", 
 Working paper.
 
 Failure to cite the above paper when using this dataset is not permitted.
