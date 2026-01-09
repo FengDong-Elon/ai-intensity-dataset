@@ -43,7 +43,7 @@ economics.
 
 Dong, F., Doukas, J., and Zhang, R.  
 "Artificial Intelligence Engagement, Firm Value, and Risk Transformation", 
-Working paper.
+Working paper. (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6051714)
 
 Failure to cite the above paper when using this dataset is not permitted.
 
